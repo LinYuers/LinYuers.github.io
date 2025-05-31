@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "-LinYuers's site"
+title                    : "LinYuers's site"
 title_separator          : "-"
 name                     : &name "Lin Yuxin "
 description              : &description "111"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yourname"
+  name             : "Lin Yuxin"
   avatar           : "white.png"
   bio              : "Peking University"
-  location         : "China Beijing"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "help@pkuhub.cn"
+  email            : "lyx368224@icloud.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pkuhub-dev"
+  github           : "LinYuers"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : 
+  wechat           : "L1368224"
 
 
 # Reading Files
