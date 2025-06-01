@@ -48,7 +48,9 @@ redirect_from:
 </body>
 
 * Name: Lin Yuxin
-* Phone and WeChat: 15858668600 / Email: [2300012557@stu.pku.edu.cn](2300012557@stu.pku.edu.cn)
+* Phone: 18810368021
+* WeChat: L1368224
+* Email: [2300012557@stu.pku.edu.cn](2300012557@stu.pku.edu.cn)
 * Personal Website: [LinYuers.github.io](https://LinYuers.github.io/)
 
 Education

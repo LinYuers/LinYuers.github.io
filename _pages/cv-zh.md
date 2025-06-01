@@ -46,8 +46,10 @@ redirect_from:
 </body>
 
 * 姓名: 林瑜昕
-* 电话及微信 15858668600 / 邮箱 [2300012557@stu.pku.edu.cn](2300012557@stu.pku.edu.cn)
-* 个人主页：[LinYuers.github.io](https://LinYuers.github.io/)
+* 电话: 18810368021
+* 微信: L1368224
+* 邮箱: [2300012557@stu.pku.edu.cn](2300012557@stu.pku.edu.cn)
+* 个人主页: [LinYuers.github.io](https://LinYuers.github.io/)
 
 学历
 ======
